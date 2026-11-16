@@ -2,4 +2,4 @@
 Random bits of Rust
 
 ## example-00
-Mutable array references.
+Started as mutable array references, now a very stupid very partial 6502 core loop.
